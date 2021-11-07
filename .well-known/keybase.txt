@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/edizbaha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edizbaha.com
+  * I am edizbaha (https://keybase.io/edizbaha) on keybase.
+  * I have a public key with fingerprint D451 14DF E7A0 C9C4 44BF  7304 A4B2 93C2 67DE 7D2D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f6b633fce614827486e4ac98fb2a5b2c2f1ced15c617a4a64e271e69bd83e6d00a",
+      "fingerprint": "d45114dfe7a0c9c444bf7304a4b293c267de7d2d",
+      "host": "keybase.io",
+      "key_id": "a4b293c267de7d2d",
+      "kid": "0101f6b633fce614827486e4ac98fb2a5b2c2f1ced15c617a4a64e271e69bd83e6d00a",
+      "uid": "1b44652ac5d3f6dd32025403ac711c19",
+      "username": "edizbaha"
+    },
+    "service": {
+      "hostname": "edizbaha.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1636276419,
+  "expire_in": 157680000,
+  "prev": "3e0ee4bed4beaa6bd75e883722df22ee7132152bca19818de2c57a5fdfce0881",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSFRBGF672kZQUXa/7ImKyo0zc+ZcdjWlKFCRJKhA29jmdvSU7dl2
+j+sNCwQpoih6KH2oF8lbWWRBZGTesAc1MQijCKKICItINrKCaI7US/TYwDDMP9/3
+zfd//P3zpnu8Kffg+4/TWg81pAz2XCrz4JP1fdUSsVmlFKyWjvCpg5cyHnfCRywm
+BSUZyMDUiKYoJuUaQAbUkaFxhGnAMAnEKoEUmoByBlSqAR0jrCEOdcC1AGGGwjUm
+y1hKl0wrUsxj0ZgVcYQsQyoAiJlcxzINUIQQMXVFRhgRGFAo1HTGdQaZIJbYcZch
+zBEc51stW9TEJTxl7x/4/+y7bEoOEIQ0FWKqMsXUGFOgDFUkK5jqAFAQcIFxHovg
+o1ygObOqCC7BUk26JKoJi3I3WLeTvxBbqX1UcKMx27GpXSpeShwnGg+6TKcy6kLL
+OQn/FgkTK8JEjoKR4LG4ZUekIBBI6liuKtAUDeoaAoF0iVdErRgPWy5C1TVDFsv9
+hyeEpMJlzhHhTGyMNcJ0lRuGokPITAg514ECgQoJxSBgAINxSFUdqyYTWcqGASS3
+rWMRWwoiYRMXC8m4VRzBTlmMSzW93aEZnhSvZ9bMae58ebxz5v+Zup09s39mvO9d
+uP6xd8vhghN7XieSC5oWFx1wuoaH+q7tLxpZUtqQ8Gc8HXgkG3t9k91Lnl+c5avr
+Wv027cwt//L8h3sLrhf2rut8kj3A9j/o/HG/ZbdnbTJ7onr1ts5VjY0Hx8Y/tH7L
+CrKySysquk/fyWvJGTr+o238at2L/DfP2dXz/qEb/f5StWNfuS93kBSV5FXV1579
+mjnhSQ01b0q7sr3wZXlo4Se7eUfq0hk5y/Z5R6u/NKQH6xsq2llozPf9Weai86Fk
+4wV/PGnzXTn5p6TJyeGbNW/v53yuvX135Ssfmftq++Z3iXOX2/wFG0MZfblsILlh
+sKMqa01T0UjHaPubHTOb7V+NqURI
+=npmV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edizbaha
+
+==================================================================
