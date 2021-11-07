@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ediz_baha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edizbaha.com
+  * I am ediz_baha (https://keybase.io/ediz_baha) on keybase.
+  * I have a public key ASDQC2tHgZcH7MXKWumMeTO9TtiaVMl6PzjcHEKMmDdZxQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d00b6b47819707ecc5ca5ae98c7933bd4ed89a54c97a3f38dc1c428c983759c50a",
+      "host": "keybase.io",
+      "kid": "0120d00b6b47819707ecc5ca5ae98c7933bd4ed89a54c97a3f38dc1c428c983759c50a",
+      "uid": "dbea186cfe82b43fd9e54a8992996f19",
+      "username": "ediz_baha"
+    },
+    "merkle_root": {
+      "ctime": 1636290555,
+      "hash": "66677ef950aa32469f559bcdd72912d517006e0f85449bbcfc7d1341c810c57ac1d51ebd8c64bc823d53d7c41c560bd7470d65486b1eebabf012b924d65656df",
+      "hash_meta": "f6c287110eb1e890e5e15f40faad9d4b6daff1e2071faff16ac19258cd24191c",
+      "seqno": 21162164
+    },
+    "service": {
+      "entropy": "Ier25qdst8Dx0XCngnOMn0AO",
+      "hostname": "edizbaha.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1636290617,
+  "expire_in": 504576000,
+  "prev": "c39bcc24a8efb4dad4af6c562c9365a4a42ffec29d3b4059e0c215c1dc934c42",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0AtrR4GXB+zFylrpjHkzvU7YmlTJej843BxCjJg3WcUKp3BheWxvYWTESpcCCcQgw5vMJKjvtNrUr2xWLJNlpKQv/sKdO0BZ4MIVwdyTTELEILKEdWLiI6PaQurbKDfqXac6ygImKUo3MVBZYYOrVrUTAgHCo3NpZ8RAt5JOOAtQul60fIuf89bTncKhLLCAZ1LX+w9MRhFZBe9q6ZvMIYYhTvdFFVLxSxOLWSiKvMyQsR2ABxTrX2pHCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEhHtFQtxrCg6msjbKzJA49RXzx2etMHsG4Z5vDpRLcfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ediz_baha
+
+==================================================================
