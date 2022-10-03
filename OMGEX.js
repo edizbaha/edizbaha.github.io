@@ -21,7 +21,7 @@ window.OMGEX = function (options) {
     }
     if(options.birthday) {
         let details = document.querySelector("#details");
-        details.innerHTML = details.innerHTML + `<div id="birthday"><i class="fas fa-birthday-cake"></i> ${options.birthday}</div>`;
+        details.innerHTML = details.innerHTML + `<div id="birthday"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="25" height="25" /> ${options.birthday}</div>`;
     }
     if(options.timezone) {
         let delay = 60000;
