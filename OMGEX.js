@@ -16,7 +16,7 @@ window.OMGEX = function (options) {
             .then(res => res.json())
             .then(res => {
                 let karma = res.karma;
-                details.innerHTML = details.innerHTML + `<div id="karma"><i class="fas fa-star"></i> ${karma} <small>(<a href="#" onclick="alert('This is my current karma on the OMG.LOL chat service. Karma points are given to me by other people when I do nice things.')">huh?</a>)</small></div>`;
+                details.innerHTML = details.innerHTML + `<div id="karma"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> ${karma} <small>(<a href="#" onclick="alert('This is my current karma on the OMG.LOL chat service. Karma points are given to me by other people when I do nice things.')">huh?</a>)</small></div>`;
             });
     }
     if(options.birthday) {
