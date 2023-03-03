@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+<path d="m56 28v19h-19v19h-18v18h-19v75h19v19h18v19h19v19h19v18h19v19h18v19h75v-19h19v-19h19v-18h19v-19h18v-19h19v-19h19v-75h-19v-18h-19v-19h-18v-19h-75v19h-38v-19h-75z" fill="#b3f3bb"/>
+<path d="m37 103v56h57v-56h-57z" fill="#41c157"/>
+<path d="m206 103v56h56v-56h-56z" fill="#41c157"/>
+<path d="m112 104v18h19v-18h-19m57 0v18h18v-18h-18m-38 37v18h38v-18h-38z" fill="#0d4117"/>
+</svg>
