@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kayıp - Ediz Baha</title>
+    <title>Gri Geçiş - Ediz Baha</title>
     <!-- Modern Sans-Serif Fontlar -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -238,6 +238,10 @@
             font-size: 1.15rem;
             line-height: 1.9;
             color: var(--text-color);
+            user-select: none;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
         }
 
         .reader-body p {
@@ -464,6 +468,14 @@
                 mainView.style.display = 'block';
                 window.scrollTo(0, 0);
             };
+
+            // Copy Protection
+            readerView.addEventListener('contextmenu', e => e.preventDefault());
+            readerView.addEventListener('keydown', e => {
+                if ((e.ctrlKey || e.metaKey) && (e.key === 'c' || e.key === 'u' || e.key === 's')) {
+                    e.preventDefault();
+                }
+            });
         });
     </script>
 </body>
